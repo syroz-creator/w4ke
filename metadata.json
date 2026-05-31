@@ -1,0 +1,6 @@
+{
+  "name": "W4KE",
+  "description": "A high-fidelity mobile mission-based alarm clock app and backend. Complete missions like push-ups, sky photos, or reading tasks to turn off your alarms and win your mornings.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
